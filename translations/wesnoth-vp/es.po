@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-vp\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-27 20:24\n"
-"PO-Revision-Date: 2026-03-27 20:55-0300\n"
+"POT-Creation-Date: 2026-05-23 20:34\n"
+"PO-Revision-Date: 2026-05-23 20:50-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -24,37 +24,37 @@ msgid "VP"
 msgstr "LPV"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:46
+#: Vendraxis_Prophecy/_main.cfg:44
 msgid "Skirmisher"
 msgstr "Hostigadora"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:46
+#: Vendraxis_Prophecy/_main.cfg:44
 msgid "Easy"
 msgstr "Fácil"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:47
+#: Vendraxis_Prophecy/_main.cfg:45
 msgid "Spearthrower"
 msgstr "Lancera"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:47
+#: Vendraxis_Prophecy/_main.cfg:45
 msgid "Normal"
 msgstr "Normal"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:48
+#: Vendraxis_Prophecy/_main.cfg:46
 msgid "Javelineer"
 msgstr "Lanzadora de jabalinas"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:48
+#: Vendraxis_Prophecy/_main.cfg:46
 msgid "Challenging"
 msgstr "Desafiante"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:50
+#: Vendraxis_Prophecy/_main.cfg:48
 msgid ""
 "Join a saurian adventure of Zanza and her tribe. She will leave the swamps "
 "and travel into the mountains. Here she will meet new enemies and friends. "
@@ -67,7 +67,7 @@ msgstr ""
 "\n"
 
 #. [campaign], id=vendraxis_prophecy
-#: Vendraxis_Prophecy/_main.cfg:52
+#: Vendraxis_Prophecy/_main.cfg:50
 msgid "(Intermediate difficulty level, 9 scenarios.)"
 msgstr "(Nivel de dificultad intermedia, 9 escenarios.)"
 
@@ -82,94 +82,94 @@ msgid "typofix, proofreading, playtesting"
 msgstr "corrección de errores, revisión, pruebas de juego"
 
 #. [about] name=Alex_Jarocha-Ernst
-#: Vendraxis_Prophecy/about.cfg:47
+#: Vendraxis_Prophecy/about.cfg:51
 msgid "Honorable Mentions - Images- Portrait"
 msgstr "Menciones honoríficas - Imágenes - Retrato"
 
 #. [about] name=Following authors created sprites what are used in this campaign.
-#: Vendraxis_Prophecy/about.cfg:70
+#: Vendraxis_Prophecy/about.cfg:74
 msgid "Honorable Mentions - Sprites - Units"
 msgstr "Menciones honoríficas - Sprites - Unidades"
 
 #. [about] name=Saurian Spearwoman, Saurian Warden
-#: Vendraxis_Prophecy/about.cfg:76
+#: Vendraxis_Prophecy/about.cfg:80
 msgid "MJ (Talentless)"
 msgstr "MJ (Talentless)"
 
 #. [about] name=Saurian Recruit, Saurian Soldier, Saurian Veteran
-#: Vendraxis_Prophecy/about.cfg:89
+#: Vendraxis_Prophecy/about.cfg:93
 msgid "Exodus_Island 1.10 by Anagkai"
 msgstr "Exodus_Island 1.10 por Anagkai"
 
 #. [about] name=devotee
 #. [about] name=assassin, slayer
-#: Vendraxis_Prophecy/about.cfg:99 Vendraxis_Prophecy/about.cfg:115
+#: Vendraxis_Prophecy/about.cfg:103 Vendraxis_Prophecy/about.cfg:119
 msgid "Across the Ocean 1.12 by SkyOne"
 msgstr "Across the Ocean 1.12 por SkyOne"
 
 #. [about] name=Saurian Guard and Saurian Champion
-#: Vendraxis_Prophecy/about.cfg:130
+#: Vendraxis_Prophecy/about.cfg:134
 msgid "by SkyOne and The Gnat"
 msgstr "por SkyOne y The Gnat"
 
 #. [about] name=Saurian Knife-thrower, Saurian Wise
-#: Vendraxis_Prophecy/about.cfg:140
+#: Vendraxis_Prophecy/about.cfg:144
 msgid "Era of Strife 1.5.2 by Jami"
 msgstr "Era of Strife 1.5.2 por Jami"
 
 #. [about] name=Saurian Visionnare
-#: Vendraxis_Prophecy/about.cfg:150
+#: Vendraxis_Prophecy/about.cfg:154
 msgid "aldarisvet"
 msgstr "aldarisvet"
 
 #. [about] name=Saurian Lich
-#: Vendraxis_Prophecy/about.cfg:160
+#: Vendraxis_Prophecy/about.cfg:164
 msgid "Pilauli"
 msgstr "Pilauli"
 
 #. [about] name=hill saurian/mountain saurian
 #. [about] name=lurker
-#: Vendraxis_Prophecy/about.cfg:170 Vendraxis_Prophecy/about.cfg:180
+#: Vendraxis_Prophecy/about.cfg:174 Vendraxis_Prophecy/about.cfg:184
 msgid "Eagle 11"
 msgstr "Eagle 11"
 
 #. [about] name=Bugrider and BannerBugrider
-#: Vendraxis_Prophecy/about.cfg:190
+#: Vendraxis_Prophecy/about.cfg:194
 msgid "Origin Unknown"
 msgstr "Origen desconocido"
 
 #. [about] name=saurian fire and arcane magic halo
-#: Vendraxis_Prophecy/about.cfg:200
+#: Vendraxis_Prophecy/about.cfg:204
 msgid "Halo Frames"
 msgstr "Fotogramas de halo"
 
 #. [about] name=Bugrider -se-bobbing animation -fixed shadows
-#: Vendraxis_Prophecy/about.cfg:210
+#: Vendraxis_Prophecy/about.cfg:214
 msgid "Own work in cooperation with hunter_z"
 msgstr "Trabajo propio en colaboración con hunter_z"
 
 #. [about] name=Wise -attack animation
-#: Vendraxis_Prophecy/about.cfg:225
+#: Vendraxis_Prophecy/about.cfg:229
 msgid "hunter_z"
 msgstr "hunter_z"
 
 #. [about] name=Deep saurian reskin -Sprites and Portraits
-#: Vendraxis_Prophecy/about.cfg:234
+#: Vendraxis_Prophecy/about.cfg:238
 msgid "Own work"
 msgstr "Trabajo propio"
 
 #. [about] name=Blarumyrran
-#: Vendraxis_Prophecy/about.cfg:261
+#: Vendraxis_Prophecy/about.cfg:265
 msgid "Rogue Mage Scenario 7"
 msgstr "Escenario 7 del Mago Renegado"
 
 #. [about] name=Durzi
-#: Vendraxis_Prophecy/about.cfg:272
+#: Vendraxis_Prophecy/about.cfg:276
 msgid "Weather and Sound Effects"
 msgstr "Efectos de clima y sonido"
 
 #. [about] name=RKT
-#: Vendraxis_Prophecy/about.cfg:279
+#: Vendraxis_Prophecy/about.cfg:283
 msgid "Descriptions"
 msgstr "Descripciones"
 
@@ -1038,9 +1038,9 @@ msgstr ""
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:711
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:753
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:369
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:744
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:786
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:828
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:745
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:787
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:829
 msgid "Take it"
 msgstr "Tomarla"
 
@@ -1049,9 +1049,9 @@ msgstr "Tomarla"
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:712
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:754
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:370
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:745
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:787
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:829
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:746
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:788
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:830
 msgid "Leave it"
 msgstr "Dejarla"
 
@@ -1060,9 +1060,9 @@ msgstr "Dejarla"
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:728
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:770
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:386
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:761
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:803
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:845
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:762
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:804
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:846
 msgid "This unit is already wearing an item."
 msgstr "Esta unidad ya lleva un objeto puesto."
 
@@ -1176,7 +1176,6 @@ msgstr "Lleva a Zanza hasta la entrada de los túneles"
 
 #. [objectives]
 #: Vendraxis_Prophecy/scenarios/03_Mountainpass.cfg:35
-#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1021
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:541
 msgid "Death of Tarex"
 msgstr "Muerte de Tarex"
@@ -1754,17 +1753,17 @@ msgid "Escape north with Zanza"
 msgstr "Escapa hacia el norte con Zanza"
 
 #. [label]
-#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1031
+#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1030
 msgid "Escape"
 msgstr "Escape"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1064
+#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1063
 msgid "Tribe, follow me! I see an exit ahead!"
 msgstr "¡Tribu, síganme! ¡Veo una salida adelante!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1065
+#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1064
 msgid "North! Move quickly!"
 msgstr "¡Al norte! ¡Muévanse rápido!"
 
@@ -2865,68 +2864,74 @@ msgstr ""
 
 #. [event]
 #: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:361
-msgid "A matriarch? I didn’t expect that!"
-msgstr "¡¿Una matriarca?! No esperaba eso."
+msgid "A matriarch? I didn’t expect to find a matriarch leading here."
+msgstr "¿Una matriarca? No esperaba encontrar una matriarca liderando aquí."
 
 #. [event]
 #: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:362
 msgid ""
-"Indeed. I am the matriarch of this domain, like your leader. You ignored the "
-"warnings and now must face me."
+"Indeed. I am the ruler of this domain. You ignored the signs and now must "
+"face the consequences!"
 msgstr ""
-"Así es. Soy la matriarca de este dominio, como tu líder. Ignoraron las "
-"advertencias y ahora deben enfrentarme."
+"Así es. Soy la gobernante de este dominio. Ignoraron las señales y ahora "
+"deben afrontar las consecuencias."
 
 #. [event]
 #: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:363
-msgid "You mean the emptiness of the tunnels, right?"
-msgstr "Te refieres al vacío de los túneles, ¿verdad?"
+msgid "What signs?"
+msgstr "¿Qué señales?"
 
 #. [event]
 #: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:364
 msgid ""
-"Exactly. Yet a male speaks wisely. Prepare to die and serve the eternal "
-"matriarch."
+"We should have guessed from the absence of life in these tunnels that the "
+"undead were close by."
 msgstr ""
-"Exacto. Sin embargo, un macho habla con sabiduría. Prepárense para morir y "
-"servir a la matriarca eterna."
+"Debimos haber deducido por la ausencia de vida en estos túneles que los no-"
+"muertos estaban cerca."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:412
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:365
+msgid "Exactly, now prepare to die and serve the eternal matriarch."
+msgstr ""
+"Exactamente, ahora prepárense para morir y servir a la matriarca eterna."
+
+#. [event]
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:413
 msgid "I like you. I’m willing to make a deal."
 msgstr "Me caes bien. Estoy dispuesta a hacer un trato."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:413
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:414
 msgid "A deal? I don’t think we’re interested in your offers."
 msgstr "¿Un trato? No creo que nos interesen tus ofertas."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:416
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:417
 msgid ""
 "The youth of today... Very well. Survive two days, and we will surrender."
 msgstr "La juventud de hoy... Muy bien. Sobrevivan dos días y nos rendiremos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:420
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:421
 msgid ""
 "The youth of today... Very well. Survive three days, and we will surrender."
 msgstr "La juventud de hoy... Muy bien. Sobrevivan tres días y nos rendiremos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:424
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:425
 msgid ""
 "The youth of today... Very well. Survive four days, and we will surrender."
 msgstr ""
 "La juventud de hoy... Muy bien. Sobrevivan cuatro días y nos rendiremos"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:427
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:428
 msgid "Undead that surrender? I don’t believe it."
 msgstr "¡¿No muertos que se rinden?! No lo creo."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:428
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:429
 msgid ""
 "Think of it as a test, young matriarch. If you prove yourself worthy, I will "
 "let you pass."
@@ -2935,57 +2940,57 @@ msgstr ""
 "dejaré pasar."
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:503
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:504
 msgid "Defeated? Me? Never! I cannot die here!"
 msgstr "¡¿Derrotada?! ¿Yo? ¡Nunca! ¡No puedo morir aquí!"
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:524
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:530
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:536
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:553
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:559
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:565
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:525
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:531
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:537
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:554
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:560
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:566
 msgid "Honorguard"
 msgstr "Guardia de honor"
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:539
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:540
 msgid "Why can't you just be normal?"
 msgstr "¿Por qué no puedes ser normal?"
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:540
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:541
 msgid "*screams*"
 msgstr "*grita*"
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:571
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:572
 msgid "She’s completely lost her mind now."
 msgstr "Ahora sí ha perdido completamente la cabeza."
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:608
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:609
 msgid "Looks like holding our ground might have been wiser."
 msgstr "Parece que mantener nuestra posición habría sido más inteligente."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:628
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:629
 msgid "I’ve found an artificer. Wait… it’s green?"
 msgstr "Encontré un artesano. Espera... ¿es verde?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:629
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:630
 msgid "Could it be? I apologize for our abruptness. Are you the Green Dragon?"
 msgstr "¿Podría ser? Disculpa nuestra brusquedad. ¿Eres el Dragón Verde?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:630
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:631
 msgid "Oh? You’re talking... alive... and a saurian?"
 msgstr "Oh, ¿estás hablando... vivo... y eres un saurio?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:631
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:632
 msgid ""
 "Yes, yes, and yes! What’s going on here? Green Dragon, is that your name? I "
 "am Zanza, a saurian from the Swamp of Dread. We’re here to stop Vendraxis."
@@ -2994,48 +2999,48 @@ msgstr ""
 "una sauria del Pantano del Terror. Estamos aquí para detener a Vendraxis."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:632
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:633
 msgid "*clears throat* Indeed. Saurians call me Green Dragon."
 msgstr "*se aclara la garganta* Así es. Los saurios me llaman Dragón Verde."
 
 #. [message], speaker=FORESTDRAGON
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:635
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:636
 msgid "So, I assume you want me to join your cause, is that right?"
 msgstr "Entonces supongo que quieres que me una a tu causa, ¿es correcto?"
 
 #. [option]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:637
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:638
 msgid "That would be great!"
 msgstr "¡Eso sería genial!"
 
 #. [command]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:639
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:640
 msgid "Yes! Your help would be invaluable against the undead."
 msgstr "¡Sí! Tu ayuda sería invaluable contra los no muertos."
 
 #. [command]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:640
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:641
 msgid "Very well, let’s take down some undead together."
 msgstr "Muy bien, derribemos algunos no muertos juntos."
 
 #. [option]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:650
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:651
 msgid "Is there another reward? (Some items)"
 msgstr "¿Hay otra recompensa? (Algunos objetos)"
 
 #. [command]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:652
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:653
 msgid "Do you have any items that might help us fight the undead?"
 msgstr ""
 "¿Tienes algún objeto que pueda ayudarnos a luchar contra los no muertos?"
 
 #. [command]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:653
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:654
 msgid "Indeed, I’ve crafted some items suitable for any saurian."
 msgstr "Así es, he fabricado algunos objetos adecuados para cualquier saurio."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:703
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:704
 msgid ""
 "I heard of a campaign where saurians ride dragonflies. It sounded "
 "intriguing, so I came to see for myself. And now, here I am... and you’ve "
@@ -3046,7 +3051,7 @@ msgstr ""
 "han encontrado. Déjenme prestarles una garra."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:704
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:705
 msgid ""
 "Dragonflies? Well, whatever the reason, you look strong. I believe you can "
 "help us take on some undead."
@@ -3055,12 +3060,12 @@ msgstr ""
 "ayudarnos contra algunos no muertos."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:742
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:743
 msgid "Cold Stone"
 msgstr "Piedra de frío"
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:743
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:744
 msgid ""
 "This cold stone changes your <i><b>melee</b></i> attack's damage type to "
 "<i><b>cold</b></i>."
@@ -3069,7 +3074,7 @@ msgstr ""
 "b></i> a <i><b>frío</b></i>."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:743
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:744
 msgid ""
 "This attack slows the target until it ends a turn. Slow halves the damage "
 "caused by attacks and the movement cost for a slowed unit is doubled."
@@ -3079,17 +3084,17 @@ msgstr ""
 "movimiento de una unidad ralentizada."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:784
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:785
 msgid "Target Stone"
 msgstr "Piedra de objetivo"
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:785
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:786
 msgid "This target stone gives the wearer the marksmanship ability."
 msgstr "Esta piedra de puntería le otorga al portador la habilidad de tirador."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:785
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:786
 msgid ""
 "When used offensively, this attack always has at least a 60% chance to hit."
 msgstr ""
@@ -3097,23 +3102,23 @@ msgstr ""
 "posibilidades de golpear."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:826
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:827
 msgid "Armor"
 msgstr "Armadura"
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:827
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:828
 msgid "This armor increses the wearers resistances."
 msgstr "Esta armadura aumenta las resistencias del portador."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:827
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:828
 msgid "This armor increases the wearer's resistance to attack by 20%."
 msgstr ""
 "Esta armadura aumenta la resistencia del portador a los ataques en un 20%."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:857
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:858
 msgid ""
 "Time's up. We surrender. Head northeast; the master awaits your arrival."
 msgstr ""
@@ -3121,12 +3126,12 @@ msgstr ""
 "su llegada."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:859
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:860
 msgid "Wait! You’re really surrendering? I find that hard to believe."
 msgstr "¡Esperen! ¿Realmente se rinden? Me cuesta creerlo."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:860
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:861
 msgid ""
 "Ask your *sighs* males. I’m telling the truth. My tribe won’t follow you or "
 "harm you. Just leave."
@@ -3135,22 +3140,22 @@ msgstr ""
 "los seguirá ni los lastimará. Solo váyanse."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:861
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:862
 msgid "She’s telling the truth."
 msgstr "Está diciendo la verdad."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:862
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:863
 msgid "Yes, even if it doesn’t make sense."
 msgstr "Sí, aunque no tenga sentido."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:863
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:864
 msgid "WITCH! I won’t believe you! Even if I feel you’re telling the truth!"
 msgstr "¡Bruja! ¡No te creo! ¡Aunque sienta que estás diciendo la verdad!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:864
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:865
 msgid ""
 "We could continue fighting if you wish, but your allies will die. Leave now, "
 "and you’ll arrive with them safely."
@@ -3159,12 +3164,12 @@ msgstr ""
 "ahora y llegarán con ellos a salvo."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:865
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:866
 msgid "She is telling the truth… so she’s helping us?"
 msgstr "Está diciendo la verdad... ¿entonces nos está ayudando?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:866
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:867
 msgid ""
 "I am? Yes. I have free will, and Vendraxis annoys me. He ordered me, yes, a "
 "male ordered me, to attack you. I did that, and now I choose my own path. I "
@@ -3175,7 +3180,7 @@ msgstr ""
 "Quiero que él sufra. ¿Explicación suficiente?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:867
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:868
 msgid ""
 "I don’t fully understand, but if you’re honest, we should hurry. Thank you. "
 "My tribe, my allies, let’s go."
@@ -3184,32 +3189,32 @@ msgstr ""
 "Mi tribu, mis aliados, vámonos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:868
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:869
 msgid "Whatever… let’s leave this place."
 msgstr "Como sea... salgamos de este lugar."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:883
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:884
 msgid "You are no fun. Go to the northeast; the master awaits your arrival."
 msgstr "No eres divertida. Vayan al noreste; el maestro espera su llegada."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:885
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:886
 msgid "Wait! Why aren’t you dying?"
 msgstr "¡Esperen! ¿Por qué no mueres?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:886
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:887
 msgid "Doesn't matter. You’re no fun. Goodbye."
 msgstr "No importa. No eres divertida. Adiós."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:895
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:896
 msgid "She’s gone… strange."
 msgstr "Se fue... qué extraño."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:896
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:897
 msgid "Whatever… In the end, she left some gold. That will be very helpful."
 msgstr "Como sea... Al final dejó algo de oro. Eso será muy útil."
 
@@ -3841,3 +3846,6 @@ msgstr ""
 "sus iguales mágicos, y en cambio canalizan su poder en devastadores ataques "
 "cuerpo a cuerpo. A pesar de sus poderes ofensivos, la corrupción en sus "
 "almas ha comenzado a afectar adversamente la salud de los mismos."
+
+#~ msgid "You mean the emptiness of the tunnels, right?"
+#~ msgstr "Te refieres al vacío de los túneles, ¿verdad?"
