@@ -2,9 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-vp\n"
-"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-05-23 20:34\n"
-"PO-Revision-Date: 2026-05-23 20:50-0300\n"
+"Report-Msgid-Bugs-To: https://github.com/Refumee/Vendraxis_Prophecy/issues/new\n"
+"POT-Creation-Date: 2026-09-19 12:07\n"
+"PO-Revision-Date: 2026-09-19 12:40-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -76,12 +76,12 @@ msgstr "(Nivel de dificultad intermedia, 9 escenarios.)"
 msgid "Original Campaign Design"
 msgstr "Diseño original de la campaña"
 
-#. [about] name=Konrad2
+#. [about] name=Konrad2, Lord-Knightmare, bssarkar (LumiousE), Durzi, WLFobe, ForestDragon, GreenScarab, MrTitainin, mithc
 #: Vendraxis_Prophecy/about.cfg:11
 msgid "typofix, proofreading, playtesting"
 msgstr "corrección de errores, revisión, pruebas de juego"
 
-#. [about] name=Alex_Jarocha-Ernst
+#. [about] name=Alex_Jarocha-Ernst, Christian Sirviö (Girgistian), Phil Barber (thespaceinvader), bera (Forumname), Divit Singh (gweddeoran)
 #: Vendraxis_Prophecy/about.cfg:51
 msgid "Honorable Mentions - Images- Portrait"
 msgstr "Menciones honoríficas - Imágenes - Retrato"
@@ -91,74 +91,74 @@ msgstr "Menciones honoríficas - Imágenes - Retrato"
 msgid "Honorable Mentions - Sprites - Units"
 msgstr "Menciones honoríficas - Sprites - Unidades"
 
-#. [about] name=Saurian Spearwoman, Saurian Warden
+#. [about] name=Saurian Spearwoman, Saurian Warden, Saurian Prophet, Saurian Seer (without orb), Saurian Shaman
 #: Vendraxis_Prophecy/about.cfg:80
 msgid "MJ (Talentless)"
 msgstr "MJ (Talentless)"
 
-#. [about] name=Saurian Recruit, Saurian Soldier, Saurian Veteran
+#. [about] name=Saurian Recruit, Saurian Soldier, Saurian Veteran, - attack animation
 #: Vendraxis_Prophecy/about.cfg:93
 msgid "Exodus_Island 1.10 by Anagkai"
 msgstr "Exodus_Island 1.10 por Anagkai"
 
-#. [about] name=devotee
-#. [about] name=assassin, slayer
+#. [about] name=devotee, - animated, young, blacksmith, craftsman, artisan, - fully animated
+#. [about] name=assassin, slayer, fighter, warrior, combatant, seer, master with orb, - all fully animated
 #: Vendraxis_Prophecy/about.cfg:103 Vendraxis_Prophecy/about.cfg:119
 msgid "Across the Ocean 1.12 by SkyOne"
 msgstr "Across the Ocean 1.12 por SkyOne"
 
-#. [about] name=Saurian Guard and Saurian Champion
+#. [about] name=Saurian Guard and Saurian Champion, - fully animated
 #: Vendraxis_Prophecy/about.cfg:134
 msgid "by SkyOne and The Gnat"
 msgstr "por SkyOne y The Gnat"
 
-#. [about] name=Saurian Knife-thrower, Saurian Wise
+#. [about] name=Saurian Knife-thrower, Saurian Wise, - not animated
 #: Vendraxis_Prophecy/about.cfg:144
 msgid "Era of Strife 1.5.2 by Jami"
 msgstr "Era of Strife 1.5.2 por Jami"
 
-#. [about] name=Saurian Visionnare
+#. [about] name=Saurian Visionnare, - fully animated
 #: Vendraxis_Prophecy/about.cfg:154
 msgid "aldarisvet"
 msgstr "aldarisvet"
 
-#. [about] name=Saurian Lich
+#. [about] name=Saurian Lich, - reskin
 #: Vendraxis_Prophecy/about.cfg:164
 msgid "Pilauli"
 msgstr "Pilauli"
 
-#. [about] name=hill saurian/mountain saurian
-#. [about] name=lurker
+#. [about] name=hill saurian/mountain saurian, reskin to deep saurian and creating sprite animations
+#. [about] name=lurker, created animations and lvl 0 and lvl 3 version
 #: Vendraxis_Prophecy/about.cfg:174 Vendraxis_Prophecy/about.cfg:184
 msgid "Eagle 11"
 msgstr "Eagle 11"
 
-#. [about] name=Bugrider and BannerBugrider
+#. [about] name=Bugrider and BannerBugrider, - animated
 #: Vendraxis_Prophecy/about.cfg:194
 msgid "Origin Unknown"
 msgstr "Origen desconocido"
 
-#. [about] name=saurian fire and arcane magic halo
+#. [about] name=saurian fire and arcane magic halo, by MJ (talentless)
 #: Vendraxis_Prophecy/about.cfg:204
 msgid "Halo Frames"
 msgstr "Fotogramas de halo"
 
-#. [about] name=Bugrider -se-bobbing animation -fixed shadows
+#. [about] name=Bugrider -se-bobbing animation -fixed shadows, BannerBugrider -fixed shadows, Saurian Recruit/Soldier/Veteran -fully animated, Saurian Wise -bobbing animation - running animation
 #: Vendraxis_Prophecy/about.cfg:214
 msgid "Own work in cooperation with hunter_z"
 msgstr "Trabajo propio en colaboración con hunter_z"
 
-#. [about] name=Wise -attack animation
+#. [about] name=Wise -attack animation, Lots of help and echange of ideas, knowledge and sprites
 #: Vendraxis_Prophecy/about.cfg:229
 msgid "hunter_z"
 msgstr "hunter_z"
 
-#. [about] name=Deep saurian reskin -Sprites and Portraits
+#. [about] name=Deep saurian reskin -Sprites and Portraits, Desert saurian reskin -Sprites and Portraits, Ghostly skirmisher/ambusher, Young saurian with wooden spear and projectile, Dragonfly Rider/Raider -combined dragonfly + saurian, Fire Ant Rider -reusing bugrider and fire ant, Bandit version of several saurians., Smoke bomb and bola attack
 #: Vendraxis_Prophecy/about.cfg:238
 msgid "Own work"
 msgstr "Trabajo propio"
 
-#. [about] name=Blarumyrran
+#. [about] name=Blarumyrran, Sonny T Yamada (SkyOne)
 #: Vendraxis_Prophecy/about.cfg:265
 msgid "Rogue Mage Scenario 7"
 msgstr "Escenario 7 del Mago Renegado"
@@ -168,15 +168,15 @@ msgstr "Escenario 7 del Mago Renegado"
 msgid "Weather and Sound Effects"
 msgstr "Efectos de clima y sonido"
 
-#. [about] name=RKT
+#. [about] name=RKT, Made the descriptions of the Deep Saurians
 #: Vendraxis_Prophecy/about.cfg:283
 msgid "Descriptions"
 msgstr "Descripciones"
 
 #. [achievement], id=recruitment
 #: Vendraxis_Prophecy/achievements.cfg:7
-msgid "Scenario 01: A new Home?"
-msgstr "Escenario 01: ¿Un nuevo hogar?"
+msgid "Scenario 1: A new Home?"
+msgstr "Escenario 1: ¿Un nuevo hogar?"
 
 #. [achievement], id=recruitment
 #: Vendraxis_Prophecy/achievements.cfg:8
@@ -185,8 +185,8 @@ msgstr "Recluta una nueva unidad en el «castillo» del enemigo."
 
 #. [achievement], id=bandits_dog
 #: Vendraxis_Prophecy/achievements.cfg:14
-msgid "Scenario 02: The Bandits tough Dog!"
-msgstr "Escenario 02: ¡El perro duro de los bandidos!"
+msgid "Scenario 2: The Bandits tough Dog!"
+msgstr "Escenario 2: ¡El perro duro de los bandidos!"
 
 #. [achievement], id=bandits_dog
 #: Vendraxis_Prophecy/achievements.cfg:15
@@ -208,8 +208,8 @@ msgstr ""
 
 #. [achievement], id=backdoor
 #: Vendraxis_Prophecy/achievements.cfg:29
-msgid "Scenario 03: Backdoor"
-msgstr "Escenario 03: Puerta trasera"
+msgid "Scenario 3: Backdoor"
+msgstr "Escenario 3: Puerta trasera"
 
 #. [achievement], id=backdoor
 #: Vendraxis_Prophecy/achievements.cfg:30
@@ -218,18 +218,18 @@ msgstr "Abre el pasaje oculto antes de que los guardias enanos te descubran."
 
 #. [achievement], id=backstab
 #: Vendraxis_Prophecy/achievements.cfg:36
-msgid "Scenario 03: Backstab"
-msgstr "Escenario 03: Puñalada trapera"
+msgid "Scenario 3: Backstab"
+msgstr "Escenario 3: Puñalada trapera"
 
 #. [achievement], id=backstab
 #: Vendraxis_Prophecy/achievements.cfg:37
-msgid "Defeat the dwarvish Lord without entering the entrance."
-msgstr "Derrota al señor enano sin entrar por la entrada principal."
+msgid "Defeat the dwarvish leader instead of reaching the entrance."
+msgstr "Derrota al líder enano en lugar de alcanzar la entrada."
 
 #. [achievement], id=erimit
 #: Vendraxis_Prophecy/achievements.cfg:43
-msgid "Scenario 04: Alone at Home"
-msgstr "Escenario 04: Solo en casa"
+msgid "Scenario 4: Alone at Home"
+msgstr "Escenario 4: Solo en casa"
 
 #. [achievement], id=erimit
 #: Vendraxis_Prophecy/achievements.cfg:44
@@ -238,8 +238,8 @@ msgstr "Encuentra al ermitaño solitario."
 
 #. [achievement], id=writer
 #: Vendraxis_Prophecy/achievements.cfg:50
-msgid "Scenario 04: Overwhelming Numbers? Where?"
-msgstr "Escenario 04: ¿Números abrumadores? ¿Dónde?"
+msgid "Scenario 4: Overwhelming Numbers? Where?"
+msgstr "Escenario 4: ¿Números abrumadores? ¿Dónde?"
 
 #. [achievement], id=writer
 #: Vendraxis_Prophecy/achievements.cfg:51
@@ -248,8 +248,8 @@ msgstr "Derrota a uno de los líderes no muertos al final."
 
 #. [achievement], id=first_cannon
 #: Vendraxis_Prophecy/achievements.cfg:57
-msgid "Scenario 05: Cannons to the front"
-msgstr "Escenario 05: Cañones al frente"
+msgid "Scenario 5: Cannons to the front"
+msgstr "Escenario 5: Cañones al frente"
 
 #. [achievement], id=first_cannon
 #: Vendraxis_Prophecy/achievements.cfg:58
@@ -258,8 +258,8 @@ msgstr "Consigue un artesano saurio."
 
 #. [achievement], id=rebellion
 #: Vendraxis_Prophecy/achievements.cfg:64
-msgid "Scenario 06: All must suffer"
-msgstr "Escenario 06: Todos deben sufrir"
+msgid "Scenario 6: All must suffer"
+msgstr "Escenario 6: Todos deben sufrir"
 
 #. [achievement], id=rebellion
 #: Vendraxis_Prophecy/achievements.cfg:65
@@ -270,8 +270,8 @@ msgstr ""
 
 #. [achievement], id=sleep
 #: Vendraxis_Prophecy/achievements.cfg:72
-msgid "Scenario 07: The other guardian is sleeping"
-msgstr "Escenario 07: El otro guardián está durmiendo"
+msgid "Scenario 7: The other guardian is sleeping"
+msgstr "Escenario 7: El otro guardián está durmiendo"
 
 #. [achievement], id=sleep
 #: Vendraxis_Prophecy/achievements.cfg:73
@@ -280,8 +280,8 @@ msgstr "Encuentra al guardia dormido."
 
 #. [achievement], id=urn
 #: Vendraxis_Prophecy/achievements.cfg:79
-msgid "Scenario 07: The guardian in the way"
-msgstr "Escenario 07: El guardián en el camino"
+msgid "Scenario 7: The guardian in the way"
+msgstr "Escenario 7: El guardián en el camino"
 
 #. [achievement], id=urn
 #: Vendraxis_Prophecy/achievements.cfg:80
@@ -296,12 +296,14 @@ msgstr "Escenario 07a: El dragón escondido ..."
 #. [achievement], id=easteregg
 #: Vendraxis_Prophecy/achievements.cfg:87
 msgid "Find the Green Dragon."
-msgstr "Encuentra al dragón verde."
+msgstr "Encuentra al Dragón Verde."
 
+# Sebas: Esta cadena hace referencia a ForestDragon el cual es un nombre propio (o asi lo considero yo).
+# «forest» deberia traducirse?
 #. [achievement], id=easteregg_real
 #: Vendraxis_Prophecy/achievements.cfg:94
-msgid "Scenario 07a: ... forest"
-msgstr "Escenario 07a: ... forest"
+msgid "Scenario 7a: ... forest"
+msgstr "Escenario 7a: ... forest"
 
 #. [achievement], id=easteregg_real
 #: Vendraxis_Prophecy/achievements.cfg:95
@@ -310,8 +312,8 @@ msgstr "Encuentra a Forest Dragon."
 
 #. [achievement], id=easteregg_meme
 #: Vendraxis_Prophecy/achievements.cfg:102
-msgid "Scenario 07a: Why can't you just be normal?"
-msgstr "Escenario 07a: ¿Por qué no puedes ser normal?"
+msgid "Scenario 7a: Why can't you just be normal?"
+msgstr "Escenario 7a: ¿Por qué no puedes ser normal?"
 
 #. [achievement], id=easteregg_meme
 #: Vendraxis_Prophecy/achievements.cfg:103
@@ -320,13 +322,13 @@ msgstr "Derrota a Fizztsars una vez."
 
 #. [achievement], id=vendraxis
 #: Vendraxis_Prophecy/achievements.cfg:109
-msgid "Scenario 08: Who?"
-msgstr "Escenario 08: ¿Quién?"
+msgid "Scenario 8: Who?"
+msgstr "Escenario 8: ¿Quién?"
 
 #. [achievement], id=vendraxis
 #: Vendraxis_Prophecy/achievements.cfg:110
-msgid "Defeat Vendraxis without killing him once."
-msgstr "Derrota a Vendraxis sin matarlo ni una vez."
+msgid "Defeat Vendraxis without killing him more than once."
+msgstr "Derrota a Vendraxis sin matarlo más de una vez."
 
 #. [event]
 #: Vendraxis_Prophecy/macros/deaths.cfg:9
@@ -493,27 +495,21 @@ msgstr ""
 "oscura en ella. Creo que deberíamos destruirla."
 
 #. [option]
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:47
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:48
 msgid "Let's get rid of this urn."
 msgstr "Deshagámonos de esta urna."
 
 #. [option]
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:67
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:101
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:71
 msgid "Maybe not..."
 msgstr "Tal vez no..."
 
-#. [option]
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:90
-msgid "Let's get rid of it."
-msgstr "Deshagámonos de ella."
-
 #. [then]
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:129
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:145
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:161
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:177
-#: Vendraxis_Prophecy/macros/utils_campaign.cfg:193
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:95
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:111
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:127
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:143
+#: Vendraxis_Prophecy/macros/utils_campaign.cfg:159
 msgid "Skalith Hyksa!!!"
 msgstr "¡Skalith Hyksa!!!"
 
@@ -552,47 +548,47 @@ msgstr "Derrota a todos los animales"
 
 #. [objectives]
 #: Vendraxis_Prophecy/scenarios/01_Practice_in_the_Swamps.cfg:37
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:30
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:481
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:34
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:485
 #: Vendraxis_Prophecy/scenarios/03_Mountainpass.cfg:33
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:31
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1019
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:32
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:539
 #: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:41
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:385
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:40
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:615
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:872
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:904
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:977
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:383
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:71
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:109
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:895
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:927
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1000
 #: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:31
 #: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:32
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:519
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:601
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:518
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:600
 msgid "Death of Zanza"
 msgstr "Muerte de Zanza"
 
 #. [objectives]
 #: Vendraxis_Prophecy/scenarios/01_Practice_in_the_Swamps.cfg:38
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:31
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:482
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:35
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:486
 #: Vendraxis_Prophecy/scenarios/03_Mountainpass.cfg:34
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:32
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:1020
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:33
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:540
 #: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:42
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:386
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:41
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:616
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:873
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:905
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:978
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:384
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:72
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:110
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:896
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:928
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1001
 #: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:32
 #: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:33
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:520
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:602
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:519
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:601
 msgid "Death of Anexir"
 msgstr "Muerte de Anexir"
 
@@ -682,13 +678,20 @@ msgstr "La prueba comienza ahora. Que la fortuna te favorezca."
 #. [event]
 #: Vendraxis_Prophecy/scenarios/01_Practice_in_the_Swamps.cfg:70
 msgid ""
-"Hint: You can only recruit level 0 units and choose their traits. Some may "
-"possess the rare 'quick' trait. In later scenarios, only Anexir will be able "
-"to recruit level 0 units."
+"Hint: Throughout your journey, you will be able to recruit Level 0 units and "
+"customize their traits to your liking. As a unique advantage, Level 0 units "
+"with the 'Quick' trait suffer no HP penalty."
 msgstr ""
-"Pista: Solo puedes reclutar unidades de nivel 0 y elegir sus rasgos. Algunas "
-"pueden tener el raro rasgo «rápido». En escenarios posteriores, solo Anexir "
-"podrá reclutar unidades de nivel 0."
+"Consejo: A lo largo de tu viaje, podrás reclutar unidades de Nivel 0 y "
+"personalizar sus rasgos a tu gusto. Como ventaja única, las unidades de "
+"Nivel 0 con el rasgo «Rápido» no sufren penalización de PV."
+
+#. [side]
+#. [side], type=Ref Saurian Wise
+#: Vendraxis_Prophecy/scenarios/01_Practice_in_the_Swamps.cfg:80
+#: Vendraxis_Prophecy/scenarios/01_Practice_in_the_Swamps.cfg:103
+msgid "Saurians of Saurgath"
+msgstr "Saurios de Saurgath"
 
 #. [event]
 #: Vendraxis_Prophecy/scenarios/01_Practice_in_the_Swamps.cfg:124
@@ -757,48 +760,56 @@ msgstr "¡No fallaré a mi tribu!"
 #. [part]
 #: Vendraxis_Prophecy/scenarios/02_Depature.cfg:21
 msgid ""
-"Months of preparation had passed, and at last Zanza guided her tribe north. "
-"There, on the border of the swamp, they came upon strangers awaiting them."
+"After months of preparation, the moment of the Hatching was upon them. Zanza "
+"gathered the Firefly clan and led her tribe north into unknown territory."
 msgstr ""
-"Habían pasado meses de preparación y, por fin, Zanza guió a su tribu hacia "
-"el norte. Allí, en el límite del pantano, se encontraron con extraños que "
-"los esperaban."
+"Tras meses de preparación, el momento de la Eclosión llegó. Zanza reunió al "
+"clan Luciérnaga y guió a su tribu hacia el norte, a territorio desconocido."
+
+#. [part]
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:25
+msgid ""
+"They reached the murky borders of the Swamp of Dread surprisingly fast, but "
+"cold steel and hissed warnings awaited them."
+msgstr ""
+"Alcanzaron las turbias fronteras del Pantano del Terror con sorprendente "
+"rapidez, pero el acero frío y advertencias siseadas los esperaban."
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:29
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:480
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:33
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:484
 msgid "Defeat the adventurers"
 msgstr "Derrota a los aventureros"
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:32
-msgid "Defeat the bandits"
-msgstr "Derrota a los bandidos"
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:36
+msgid "Defeat the bandits Leader"
+msgstr "Derrota al líder de los bandidos"
 
 #. [note]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:41
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:489
-#: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:41
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:880
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:985
-msgid "Any surviving allied units will accompany you into the next scenario."
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:45
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:493
+msgid ""
+"Any surviving allied units will accompany you into the next scenario "
+"(excluding your leader)."
 msgstr ""
-"Cualquier unidad aliada que sobreviva te acompañará al siguiente escenario."
+"Cualquier unidad aliada que sobreviva te acompañará al siguiente escenario "
+"(excluyendo a tu líder)."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:49
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:53
 msgid "Swamp Lizard"
 msgstr "Lagarto del pantano"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:74
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:78
 msgid "Let us begin our journey north. I am ready to face whatever awaits!"
 msgstr ""
 "Comencemos nuestro viaje hacia el norte. ¡Estoy lista para enfrentar lo que "
 "venga!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:75
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:79
 msgid ""
 "With the tribe’s support, I can now summon more advanced saurians for battle."
 msgstr ""
@@ -806,7 +817,7 @@ msgstr ""
 "batalla."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:76
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:80
 msgid ""
 "I spoke with the elder. I hope we are prepared for the challenges ahead."
 msgstr ""
@@ -814,39 +825,39 @@ msgstr ""
 "vienen."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:79
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:83
 msgid "Look! Look what we have here!"
 msgstr "¡Miren! ¡Miren lo que tenemos aquí!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:82
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:86
 msgid "Speak of the devil."
 msgstr "Hablando del diablo."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:85
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:89
 msgid "I’ve found the bandits!"
 msgstr "¡Encontré a los bandidos!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:86
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:90
 msgid "You are right. Those are indeed the bandits."
 msgstr "Tienes razón. Esos son los bandidos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:87
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:91
 msgid ""
 "It seems we’ve found two groups of saurians—the bandits and another faction."
 msgstr ""
 "Parece que encontramos dos grupos de saurios: los bandidos y otra facción."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:88
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:92
 msgid "And?"
 msgstr "¿Y?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:89
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:93
 msgid ""
 "I think we can double our pay. They said they will pay us per saurian head. "
 "We are in luck."
@@ -855,17 +866,17 @@ msgstr ""
 "cabeza de saurio. Tenemos suerte."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:90
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:94
 msgid "That sounds perfect. Double the fun, double the pay!"
 msgstr "Eso suena perfecto. ¡El doble de diversión, el doble de pago!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:97
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:101
 msgid "It seems they are not friendly. Tribe, prepare yourselves!"
 msgstr "Parece que no son amigables. ¡Tribu, prepárense!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:98
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:102
 msgid ""
 "Hint: Defeat the bandits in the northeast to gain access to their units for "
 "this scenario only. You will also gain a secondary leader who can recruit "
@@ -875,23 +886,39 @@ msgstr ""
 "unidades solo en este escenario. También ganarás un líder secundario que "
 "podrá reclutar bandidos en la aventura que viene."
 
+#. [side]
+#. [modify_side]
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:112
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:451
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:465
+#: Vendraxis_Prophecy/scenarios/03_Mountainpass.cfg:135
+#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:120
+#: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:81
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:93
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:176
+#: Vendraxis_Prophecy/scenarios/07a_Gates_to.cfg:54
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:79
+#: Vendraxis_Prophecy/scenarios/09_VP_Epilogue.cfg:88
+msgid "Firefly Clan"
+msgstr "Clan Luciérnaga"
+
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:301
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:305
 msgid "This cannot be my end..."
 msgstr "Este no puede ser mi fin..."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:308
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:312
 msgid "Have I failed? No... the others have failed me!"
 msgstr "¿He fallado? No... ¡los demás me han fallado!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:347
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:351
 msgid "No... there will be no more plunder..."
 msgstr "No... ya no habrá más botín..."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:360
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:364
 msgid ""
 "Crocodiles? Nobody told me the lizards had crocodiles! We won't get paid for "
 "fighting these beasts!"
@@ -900,12 +927,12 @@ msgstr ""
 "pagarán por luchar contra estas bestias!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:361
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:365
 msgid "Maybe we can sell their scales?"
 msgstr "¿Tal vez podamos vender sus escamas?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:362
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:366
 msgid ""
 "Calm down, friend. Crocodiles won’t defeat us. We will overcome them and "
 "claim our pay. Watch out for more traps from these fiends!"
@@ -914,32 +941,32 @@ msgstr ""
 "reclamaremos nuestro pago. ¡Cuidado con más trampas de estos demonios!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:363
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:367
 msgid "That isn’t even our crocodile."
 msgstr "Ni siquiera es nuestro cocodrilo."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:364
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:368
 msgid "That's such a saurian thing to say!"
 msgstr "¡Eso es tan propio de un saurio!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:365
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:369
 msgid "(muttering) That might actually work..."
 msgstr "(murmurando) Eso podría funcionar en realidad..."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:387
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:391
 msgid "Stop attacking us! I thought all saurians stood together."
 msgstr "¡Dejen de atacarnos! Pensé que todos los saurios permanecían unidos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:388
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:392
 msgid "Ha ha! Do you hear my laughter?"
 msgstr "¡Ja ja! ¿Escuchas mi risa?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:389
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:393
 msgid ""
 "We know who you are and where you’re heading. We considered our options... "
 "and decided to take your gold."
@@ -948,12 +975,12 @@ msgstr ""
 "opciones... y decidimos tomar su oro."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:390
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:394
 msgid "The best of both worlds... two enemies in one."
 msgstr "Lo mejor de ambos mundos... dos enemigos en uno."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:392
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:396
 msgid ""
 "Perhaps if we defeat their leaders, the others will rally to the strongest "
 "saurian."
@@ -962,17 +989,17 @@ msgstr ""
 "fuerte."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:401
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:405
 msgid "You fight well, that much is certain."
 msgstr "Luchas bien, eso es seguro."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:402
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:406
 msgid "I command you, bandits: follow us, or fall as your leader did!"
 msgstr "¡Les ordeno, bandidos: sígannos o caigan como cayó su líder!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:410
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:414
 msgid ""
 "I speak for my band. We will follow you. You may now recruit our warriors."
 msgstr ""
@@ -980,52 +1007,40 @@ msgstr ""
 "guerreros."
 
 #. [message], speaker=narrator
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:439
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:443
 msgid "Do you wish to take command of the Saurian Band side?"
 msgstr "¿Deseas tomar el mando del lado de la Banda Sauria?"
 
 #. [option]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:441
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:445
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:328
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:344
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:854
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:342
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:877
 #: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:282
 msgid "Yes, I will lead them."
 msgstr "Sí, los lideraré."
 
-#. [modify_side]
-#. [side]
-#. [side], type=Deep Saurian Soothsayer
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:447
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:461
-#: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:120
-#: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:81
-#: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:127
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:93
-msgid "Player"
-msgstr "Jugador"
-
 #. [option]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:456
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:460
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:337
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:353
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:863
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:351
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:886
 #: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:295
 msgid "No, I will not."
 msgstr "No, no lo haré."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:471
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:475
 msgid "Take this poisoned potion as a token of our submission."
 msgstr "Toma esta poción envenenada como muestra de nuestra sumisión."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:518
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:522
 msgid "Poison Potion"
 msgstr "Poción de veneno"
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:519
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:523
 msgid ""
 "It adds the special ability <i><b>poison</b></i> to your <i><b>melee</b></i> "
 "attack."
@@ -1034,7 +1049,7 @@ msgstr ""
 "cuerpo</b></i>."
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:520
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:524
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:711
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:753
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:369
@@ -1045,7 +1060,7 @@ msgid "Take it"
 msgstr "Tomarla"
 
 #. [item_dialog]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:521
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:525
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:712
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:754
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:370
@@ -1056,7 +1071,7 @@ msgid "Leave it"
 msgstr "Dejarla"
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:537
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:541
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:728
 #: Vendraxis_Prophecy/scenarios/04_Tunnels.cfg:770
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:386
@@ -1066,43 +1081,48 @@ msgstr "Dejarla"
 msgid "This unit is already wearing an item."
 msgstr "Esta unidad ya lleva un objeto puesto."
 
-#. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:548
+#. [then]
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:558
+msgid "So it ends..."
+msgstr "Así termina..."
+
+#. [else]
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:564
 msgid "I am defeated! Everyone, flee! Report back to the city!"
 msgstr "¡Estoy derrotado! ¡Todos, huyan! ¡Regresen a la ciudad y reporten!"
 
 #. [message], speaker=Anexir
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:551
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:567
 msgid "Zanza, shall we hunt them down, or let them go?"
 msgstr "Zanza, ¿los perseguimos o los dejamos ir?"
 
 #. [option]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:554
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:570
 msgid "Hunt them down. We need the experience."
 msgstr "Persigámoslos. Necesitamos la experiencia."
 
 #. [command]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:556
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:572
 msgid "Hunt them down! Let none escape!"
 msgstr "¡Persigámoslos! ¡Que ninguno escape!"
 
 #. [message], speaker=Anexir
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:602
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:618
 msgid "They are slaughtering us! Flee!"
 msgstr "¡Nos están masacrando! ¡Huyan!"
 
 #. [option]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:626
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:642
 msgid "Plunder the camp. End the scenario and collect more gold."
 msgstr "Saquear el campamento. Terminar el escenario y recolectar más oro."
 
 #. [command]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:628
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:644
 msgid "Let them flee. We've fought enough for today."
 msgstr "Dejémoslos huir. Ya hemos luchado suficiente por hoy."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:645
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:663
 msgid ""
 "So, you helped us after all? Go! I am letting you leave—before I change my "
 "mind."
@@ -1111,22 +1131,22 @@ msgstr ""
 "de opinión."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:646
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:664
 msgid "That's… kind of you? Thank you, I guess."
 msgstr "Eso es... ¿amable de tu parte? Gracias, supongo."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:652
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:670
 msgid "Wait! You seem strong, and I wish to lend you my strength."
 msgstr "¡Esperen! Parecen fuertes y deseo prestarles mi fuerza."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:662
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:680
 msgid "I will join you, to make amends for my rudeness."
 msgstr "Me uniré a ustedes para compensar mi grosería."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:679
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:697
 msgid ""
 "Hint: You can now recruit the thief variants of the saurian bandits. This is "
 "a cosmetic addition and a bonus for sparing Katraxtrax."
@@ -1135,13 +1155,13 @@ msgstr ""
 "saurios. Es una adición cosmética y un bono por haber perdonado a Katraxtrax."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:703
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:721
 msgid "The northern path is clear. Let us press onward on our journey."
 msgstr ""
 "El camino del norte está despejado. Sigamos adelante con nuestro viaje."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:704
+#: Vendraxis_Prophecy/scenarios/02_Depature.cfg:722
 msgid ""
 "Hint: The saurian bandits on the battlefield have joined your side, except "
 "for their leader."
@@ -1153,8 +1173,8 @@ msgstr ""
 #: Vendraxis_Prophecy/scenarios/03_Mountainpass.cfg:20
 msgid ""
 "After defeating the adventurers and proving her strength to the bandits, "
-"Tarex joined Zanza's tribe, bringing some of his people with him. Perhaps "
-"they will prove useful on the journey ahead."
+"Zanza's tribe was joined by Tarex, who also brought some of his people with "
+"him. Perhaps they will prove useful on the journey ahead."
 msgstr ""
 "Después de derrotar a los aventureros y demostrar su fuerza a los bandidos, "
 "Tarex se unió a la tribu de Zanza, trayendo consigo a algunos de los suyos. "
@@ -1215,7 +1235,7 @@ msgstr "Puedo sentir nuestro destino. Debe estar cerca."
 
 #. [label]
 #: Vendraxis_Prophecy/scenarios/03_Mountainpass.cfg:113
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:944
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:967
 msgid "Entrance"
 msgstr "Entrada"
 
@@ -1797,9 +1817,24 @@ msgstr "Derrota a todos los enemigos"
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:34
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:542
 #: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:43
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:387
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:385
 msgid "Death of Salanix"
 msgstr "Muerte de Salanix"
+
+#. [note]
+#: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:41
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:903
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1008
+msgid "Any surviving allied units will accompany you into the next scenario."
+msgstr ""
+"Cualquier unidad aliada que sobreviva te acompañará al siguiente escenario."
+
+#. [side], type=Deep Saurian Soothsayer
+#. [side], type=Deep Banner Fire Ant Rider
+#: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:127
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:112
+msgid "Deep Saurians"
+msgstr "Saurios Profundos"
 
 #. [side], type=Great Troll
 #. [side], type=Direwolf Rider
@@ -1877,7 +1912,7 @@ msgstr "Estamos verdaderamente agradecidos por este regalo."
 
 #. [message], speaker=narrator
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:326
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:342
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:340
 msgid "Do you wish to take command of the Deep Saurians side?"
 msgstr "¿Deseas tomar el mando del lado de los Saurios Profundos?"
 
@@ -1951,7 +1986,7 @@ msgstr "Así es. Hay mucho de lo que debemos hablar."
 
 #. [event]
 #: Vendraxis_Prophecy/scenarios/05_Meet_n_greet.cfg:610
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:623
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:621
 msgid "I have failed my tribe..."
 msgstr "He fallado a mi tribu..."
 
@@ -1995,38 +2030,33 @@ msgstr ""
 
 #. [objectives]
 #: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:40
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:384
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:382
 msgid "Defeat the traitors"
 msgstr "Derrota a los traidores"
 
 #. [objectives]
 #: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:44
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:388
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:386
 #: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:34
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:521
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:603
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:520
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:602
 msgid "Death of Refumee"
 msgstr "Muerte de Refumee"
 
-#. [side], type=Deep Banner Fire Ant Rider
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:112
-msgid "Deep Saurians"
-msgstr "Saurios Profundos"
-
 #. [side], type=Deep Saurian Warrior
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:149
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:147
 msgid "Traitors"
 msgstr "Traidores"
 
 #. [side], type=Great Troll
 #. [side], type=Naga High Guard
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:179
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:210
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:177
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:208
 msgid "Mercenaries"
 msgstr "Mercenarios"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:326
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:324
 msgid ""
 "Welcome to my home, Saurhearth. Feel the warmth of the lava streams. Rest in "
 "the mushroom pools. Wait... what is that noise?"
@@ -2035,7 +2065,7 @@ msgstr ""
 "Descansen en las pozas de hongos. Esperen... ¿qué es ese ruido?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:327
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:325
 msgid ""
 "We are under attack! Zanza, will you stand with us again? I am sure the "
 "Chief needs our help."
@@ -2044,46 +2074,46 @@ msgstr ""
 "de que el jefe necesita nuestra ayuda."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:328
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:326
 msgid "Of course, my friend."
 msgstr "Por supuesto, amigo mío."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:329
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:327
 msgid ""
 "Salanix, is that you? By my scales, I am glad to see you. We need your help."
 msgstr ""
 "¿Salanix, eres tú? Por mis escamas, me alegra verte. Necesitamos tu ayuda."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:330
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:328
 msgid "Zizzasz has gone mad and started a civil war with the aid of outsiders!"
 msgstr ""
 "¡Zizzasz se ha vuelto loco y ha iniciado una guerra civil con ayuda de "
 "forasteros!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:331
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:329
 msgid "Ha, ha. I am mad? Just step down and die."
 msgstr "Ja, ja. ¿Estoy loco? Solo renuncia y muere."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:332
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:330
 msgid "Enough talking. Fight! Our warriors are hungry."
 msgstr "Basta de hablar. ¡Luchen! Nuestros guerreros tienen hambre."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:333
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:331
 msgid "Mercenaries, earn your gold."
 msgstr "Mercenarios, ganen su oro."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:334
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:332
 msgid "We will."
 msgstr "Lo haremos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:335
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:333
 msgid ""
 "I am here to make sure no one escapes or joins you. Leave now, little green "
 "ones, or my wolves will eat you whole."
@@ -2092,23 +2122,23 @@ msgstr ""
 "ahora, pequeños verdes, o mis lobos los devorarán enteros."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:336
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:334
 msgid "Anexir, did you hear that? He tried to scare us with wolves."
 msgstr "Anexir, ¿escuchaste eso? Intentó asustarnos con lobos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:337
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:335
 msgid "Swamp lizards are scarier than that thing and its pets."
 msgstr "Los lagartos del pantano dan más miedo que esa cosa y sus mascotas."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:338
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:336
 msgid "I thank you, Zanza. If you wish, I can call on warriors of my tribe."
 msgstr ""
 "Te lo agradezco, Zanza. Si quieres, puedo llamar a guerreros de mi tribu."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:339
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:337
 msgid ""
 "Hint: If you choose, Salanix can now recruit Deep Saurians. They are "
 "sturdier than swamp saurians and can wield fire magic."
@@ -2117,68 +2147,68 @@ msgstr ""
 "resistentes que los saurios del pantano y pueden usar magia de fuego."
 
 #. [scenario], id=06_Betrayal
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:366
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:364
 msgid "No... food is fighting back? I don’t like this..."
 msgstr "No... ¿la comida está contraatacando? No me gusta esto..."
 
 #. [scenario], id=06_Betrayal
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:367
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:365
 msgid "I can’t die... not before I get my payment..."
 msgstr "No puedo morir... no antes de recibir mi pago..."
 
 #. [scenario], id=06_Betrayal
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:368
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:366
 msgid "Ugh... what happened...?"
 msgstr "Ugh... ¿qué pasó...?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:380
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:378
 msgid "Help! Somebody help us!"
 msgstr "¡Auxilio! ¡Que alguien nos ayude!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:381
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:379
 msgid "Shut up and die already!"
 msgstr "¡Cállate y muere de una vez!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:382
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:380
 msgid "They are butchering civilians! We must hurry!"
 msgstr "¡Están masacrando civiles! ¡Debemos darnos prisa!"
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:389
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:387
 msgid "Keep at least 8 civilians alive: $|number_civ/20 alive"
 msgstr "Mantén con vida al menos 8 civiles: $|number_civ/20 vivos"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:424
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:422
 msgid "Send in the fire ants! That should turn the tide."
 msgstr "¡Envíen las hormigas de fuego! Eso debería cambiar el rumbo."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:455
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:453
 msgid "Die, traitor!"
 msgstr "¡Muere, traidor!"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:456
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:454
 msgid "No gold, no fight. Retreat!"
 msgstr "Sin oro, no hay pelea. ¡Retirada!"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:457
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:455
 msgid "Without payment, this battle isn’t worth it. Back into the depths!"
 msgstr ""
 "Sin pago, esta batalla no vale la pena. ¡De vuelta a las profundidades!"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:481
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:479
 msgid "Please, come with me, brave heroes of Saurhearth."
 msgstr "Por favor, vengan conmigo, valientes héroes de Saurhearth."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:517
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:515
 msgid ""
 "I truly want to thank you for your help. I don't know how many more of my "
 "tribe would have died without you."
@@ -2187,7 +2217,7 @@ msgstr ""
 "habrían muerto sin ustedes."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:518
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:516
 msgid ""
 "We will always aid our kind. We hope to receive the same, should we ever "
 "need it."
@@ -2196,7 +2226,7 @@ msgstr ""
 "lo necesitamos."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:519
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:517
 msgid ""
 "We are not used to friendly outsiders, but this is a welcome change. We "
 "would gladly help you in your endeavor. But tell me, what are you doing "
@@ -2207,7 +2237,7 @@ msgstr ""
 "aquí? ¿Cómo nos encontraron? ¿Y por qué son verdes?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:520
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:518
 msgid ""
 "We live in the outer world, similar to your mushroom pools. We have our own "
 "empire. Our capital is called Saurgrath, and all saurians there are green. I "
@@ -2218,12 +2248,12 @@ msgstr ""
 "son verdes. También me preguntaba sobre sus escamas grises."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:521
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:519
 msgid "I believe scale colors depend on our environment."
 msgstr "Creo que el color de las escamas depende de nuestro entorno."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:522
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:520
 msgid ""
 "We are here because of a prophecy from a saurian named Vendraxis. If I "
 "interpret it correctly, the betrayal we witnessed was part of it."
@@ -2232,27 +2262,27 @@ msgstr ""
 "interpreto correctamente, la traición que presenciamos formaba parte de ella."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:523
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:521
 msgid "You said <i>Vendraxis</i>?"
 msgstr "¿Dijiste <i>Vendraxis</i>?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:524
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:522
 msgid "Yes, Vendraxis."
 msgstr "Sí, Vendraxis."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:525
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:523
 msgid "You never told me you were allied with Vendraxis!"
 msgstr "¡Nunca me dijiste que estabas aliado con Vendraxis!"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:526
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:524
 msgid "Wait, what? Who is Vendraxis to you?"
 msgstr "Espera, ¿qué? ¿Quién es Vendraxis para ti?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:527
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:525
 msgid ""
 "He is our nemesis, a demon who has threatened our tribe for years. We have "
 "killed him several times, but he always returns."
@@ -2261,22 +2291,22 @@ msgstr ""
 "años. Lo hemos matado varias veces, pero siempre regresa."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:528
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:526
 msgid "Do you remember the saurian corpses and ghosts?"
 msgstr "¿Recuerdas los cadáveres y fantasmas saurios?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:529
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:527
 msgid "I do. What about them?"
 msgstr "Sí. ¿Qué pasa con ellos?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:530
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:528
 msgid "That's his so-called <i>tribe</i>."
 msgstr "Esa es su supuesta <i>tribu</i>."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:531
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:529
 msgid ""
 "No way! Vendraxis sent these prophecies just to lure our tribe here? I don't "
 "want to believe it. I saw heroism."
@@ -2285,7 +2315,7 @@ msgstr ""
 "tribu aquí? No quiero creerlo. Vi actos heroicos."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:532
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:530
 msgid ""
 "Perhaps he wants someone to end his misery, or to create a massive undead "
 "host. I do not know."
@@ -2294,7 +2324,7 @@ msgstr ""
 "de no muertos. No lo sé."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:533
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:531
 msgid ""
 "Well, I am not here to die or become a walking corpse. I’m here to settle a "
 "new tribe."
@@ -2303,7 +2333,7 @@ msgstr ""
 "Estoy aquí para establecer una nueva tribu."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:534
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:532
 msgid ""
 "Then I suggest we continue following the prophecies and meet this Vendraxis "
 "in person. If we work together, we can resolve this dispute. I saw your "
@@ -2316,7 +2346,7 @@ msgstr ""
 "de esas criaturas. Encontraremos una forma."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:535
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:533
 msgid ""
 "So be it. We will aid you. Together, we will be stronger and repay our debt. "
 "What’s next?"
@@ -2325,7 +2355,7 @@ msgstr ""
 "deuda. ¿Qué sigue?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:536
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:534
 msgid ""
 "I recall a snowy mountain with trolls and humans. Vendraxis seems to live "
 "near there. I can feel his presence."
@@ -2334,12 +2364,12 @@ msgstr ""
 "cerca de allí. Puedo sentir su presencia."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:537
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:535
 msgid "I think I know the place. Let me guide you."
 msgstr "Creo que conozco el lugar. Déjenme guiarlos."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:538
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:536
 msgid ""
 "We will follow you a few days later. I need to prepare my saurians for the "
 "fight ahead. Salanix will be of great help."
@@ -2348,24 +2378,102 @@ msgstr ""
 "pelea que viene. Salanix será de gran ayuda."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:539
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:537
 msgid "Thank you all. Let us find this Vendraxis."
 msgstr "Gracias a todos. Encontremos a este Vendraxis."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:612
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:610
 msgid "So many have died! We will never recover from that."
 msgstr "¡Han muerto tantos! Nunca nos recuperaremos de esto."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:655
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:636
+msgid "He said... I would ... win..."
+msgstr "Dijo... que yo... ganaría..."
+
+#. [event]
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:637
+msgid "Who said that?"
+msgstr "¿Quién dijo eso?"
+
+#. [event]
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:642
+msgid "He's already dead..."
+msgstr "Ya está muerto..."
+
+#. [event]
+#: Vendraxis_Prophecy/scenarios/06_Betrayal.cfg:653
 msgid "We are lost... scattered into the depths, our kind will vanish..."
 msgstr ""
 "Estamos perdidos... dispersos en las profundidades, nuestra especie "
 "desaparecerá..."
 
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:36
+msgid "So, you have finally found me, just as I foretold. Well done."
+msgstr "Así que por fin me encontraron, tal como lo predije. Bien hecho."
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:37
+msgid "You are Vendraxis?"
+msgstr "¿Tú eres Vendraxis?"
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:38
+msgid ""
+"Indeed, young one. I am the great Vendraxis. I have conquered death itself. "
+"Will you join me?"
+msgstr ""
+"Así es, joven. Yo soy el gran Vendraxis. He conquistado a la muerte misma. "
+"¿Se unirán a mí?"
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:39
+msgid "Why would we follow you? You have nothing to offer us."
+msgstr "¿Por qué te seguiríamos? No tienes nada que ofrecernos."
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:40
+msgid ""
+"Ha! You amuse me. I like your spirit. You could be my second wife. I offer "
+"you immortality, a place at my side, and command over armies to conquer new "
+"lands for the Saurians."
+msgstr ""
+"¡Ja! Me diviertes. Me gusta tu espíritu. Podrías ser mi segunda esposa. Te "
+"ofrezco inmortalidad, un lugar a mi lado y el mando de ejércitos para "
+"conquistar nuevas tierras para los saurios."
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:41
+msgid ""
+"Absolutely not! I choose to live, not become a monstrosity like you. And I "
+"would never marry a corpse!"
+msgstr ""
+"¡De ninguna manera! Prefiero vivir, no convertirme en una monstruosidad como "
+"tú. ¡Y jamás me casaría con un cadáver!"
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:42
+msgid ""
+"How disappointing! Very well, if it is death you desire, I shall grant your "
+"last wish. Rise, my minions!"
+msgstr ""
+"¡Qué decepcionante! Muy bien, si es la muerte lo que deseas, te concederé tu "
+"último deseo. ¡Levántense, mis sirvientes!"
+
+#. [scenario], id=07_Snowpass
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:68
+msgid "We must stop Vendraxis! He is desecrating our fallen!"
+msgstr "¡Debemos detener a Vendraxis! ¡Está profanando a nuestros caídos!"
+
+#. [objectives]
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:70
+msgid "Kill Vendraxis"
+msgstr "Mata a Vendraxis"
+
 #. [part]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:22
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:91
 msgid ""
 "Zanza and Anexir began to doubt the prophecies. Perhaps they were a lure, "
 "meant to lead their tribe into danger. There was more to the prophecy than "
@@ -2376,7 +2484,7 @@ msgstr ""
 "comprendido."
 
 #. [part]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:26
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:95
 msgid ""
 "They traveled through several small Deep Saurian villages. Some harvested "
 "mushrooms, some tended fire ants, others worked like dwarves in mines or "
@@ -2388,17 +2496,17 @@ msgstr ""
 "Terror."
 
 #. [part]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:30
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:99
 msgid "Finally, Zanza and her people reached the end of the tunnel..."
 msgstr "Finalmente, Zanza y su gente llegaron al final del túnel..."
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:39
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:108
 msgid "Uncover why the prophecy led you here?"
 msgstr "¿Descubre por qué la profecía te trajo aquí?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:333
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:420
 msgid ""
 "So, here we are. This is the farthest I've ever ventured on my expeditions."
 msgstr ""
@@ -2406,28 +2514,28 @@ msgstr ""
 "expediciones."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:334
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:421
 msgid "I can't believe it... sunlight at last!"
 msgstr "No puedo creerlo... ¡luz del sol al fin!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:335
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:422
 msgid "Snow, trolls, and humans await us."
 msgstr "Nieve, troles y humanos nos esperan."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:336
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:423
 msgid "Trolls and humans?"
 msgstr "¿Troles y humanos?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:337
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:424
 msgid "Remember the prophecy? It seems we’ll face them here. Best be ready."
 msgstr ""
 "¿Recuerdas la profecía? Parece que los enfrentaremos aquí. Mejor prepárense."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:338
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:425
 msgid ""
 "Still, I offer the support of my people. I must admit, I’ve never left the "
 "mountains, and I’m a bit afraid."
@@ -2436,7 +2544,7 @@ msgstr ""
 "las montañas y estoy un poco asustado."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:339
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:426
 msgid ""
 "We’ll lead you. There’s nothing to fear. The best part: if danger comes, "
 "you’ll see it from miles away."
@@ -2445,33 +2553,33 @@ msgstr ""
 "peligro, lo verás desde lejos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:344
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:431
 msgid "I sense a presence nearby. We should start there."
 msgstr "Siento una presencia cerca. Deberíamos comenzar por allí."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:350
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:437
 msgid "Also, remember when I told you that Vendraxis met the elders?"
 msgstr ""
 "Además, ¿recuerdas cuando te dije que Vendraxis se reunió con los ancianos?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:351
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:438
 msgid "Yes, I remember."
 msgstr "Sí, lo recuerdo."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:352
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:439
 msgid "And shared the prophecy with us?"
 msgstr "¿Y compartió la profecía con nosotros?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:353
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:440
 msgid "Yes... now, get to the point, Anexir."
 msgstr "Sí... ahora, ve al grano, Anexir."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:354
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:441
 msgid ""
 "Of course. The elders taught me a spell for this battlefield. Let me cast it "
 "quickly."
@@ -2480,65 +2588,65 @@ msgstr ""
 "batalla. Déjenme lanzarlo rápido."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:382
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:451
 msgid "Now our saurians should move faster across the snow."
 msgstr "Ahora nuestros saurios deberían moverse más rápido sobre la nieve."
 
 #. [message]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:452
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:468
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:521
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:537
 msgid "Sessa"
 msgstr "Sessa"
 
 #. [message]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:454
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:523
 msgid "zzzZZZ..."
 msgstr "zzzZZZ..."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:457
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:526
 msgid "Hey! Wake up!"
 msgstr "¡Oye! ¡Despierta!"
 
 #. [message]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:470
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:539
 msgid "Huh? I’m awake, I swear!"
 msgstr "¡Eh? ¡Estoy despierto, lo juro!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:526
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:595
 msgid "Boss! Look, something’s coming our way. More beasts claiming our land!"
 msgstr ""
 "¡Jefe! Mira, algo viene hacia nosotros. ¡Más bestias reclamando nuestra "
 "tierra!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:527
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:596
 msgid "Kill them! Take their gold!"
 msgstr "¡Mátenlos! ¡Tomen su oro!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:528
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:597
 msgid "They match the prophecy. This must be the place."
 msgstr "Coinciden con la profecía. Este debe ser el lugar."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:529
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:598
 msgid "As usual, they want gold or blood."
 msgstr "Como siempre, quieren oro o sangre."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:530
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:599
 msgid "Let them come."
 msgstr "Que vengan."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:544
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:613
 msgid "Here they come!"
 msgstr "¡Aquí vienen!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:545
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:614
 msgid ""
 "Men! We've found the thieves who plague our lands, and those undead "
 "saurians. Take them down!"
@@ -2547,12 +2655,12 @@ msgstr ""
 "esos saurios no muertos. ¡Acábenlos!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:550
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:619
 msgid "So-called heroes, again..."
 msgstr "Los supuestos héroes otra vez..."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:551
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:620
 msgid ""
 "They must be talking about Vendraxis’ tribe, the one with the undead "
 "saurians."
@@ -2560,70 +2668,7 @@ msgstr ""
 "Deben estar hablando de la tribu de Vendraxis, la de los saurios no muertos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:580
-msgid "So, you have finally found me, just as I foretold. Well done."
-msgstr "Así que por fin me encontraron, tal como lo predije. Bien hecho."
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:581
-msgid "You are Vendraxis?"
-msgstr "¿Tú eres Vendraxis?"
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:582
-msgid ""
-"Indeed, young one. I am the great Vendraxis. I have conquered death itself. "
-"Will you join me?"
-msgstr ""
-"Así es, joven. Yo soy el gran Vendraxis. He conquistado a la muerte misma. "
-"¿Se unirán a mí?"
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:583
-msgid "Why would we follow you? You have nothing to offer us."
-msgstr "¿Por qué te seguiríamos? No tienes nada que ofrecernos."
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:584
-msgid ""
-"Ha! You amuse me. I like your spirit. You could be my second wife. I offer "
-"you immortality, a place at my side, and command over armies to conquer new "
-"lands for the Saurians."
-msgstr ""
-"¡Ja! Me diviertes. Me gusta tu espíritu. Podrías ser mi segunda esposa. Te "
-"ofrezco inmortalidad, un lugar a mi lado y el mando de ejércitos para "
-"conquistar nuevas tierras para los saurios."
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:585
-msgid ""
-"Absolutely not! I choose to live, not become a monstrosity like you. And I "
-"would never marry a corpse!"
-msgstr ""
-"¡De ninguna manera! Prefiero vivir, no convertirme en una monstruosidad como "
-"tú. ¡Y jamás me casaría con un cadáver!"
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:586
-msgid ""
-"How disappointing! Very well, if it is death you desire, I shall grant your "
-"last wish. Rise, my minions!"
-msgstr ""
-"¡Qué decepcionante! Muy bien, si es la muerte lo que deseas, te concederé tu "
-"último deseo. ¡Levántense, mis sirvientes!"
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:612
-msgid "We must stop Vendraxis! He is desecrating our fallen!"
-msgstr "¡Debemos detener a Vendraxis! ¡Está profanando a nuestros caídos!"
-
-#. [objectives]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:614
-msgid "Kill Vendraxis"
-msgstr "Mata a Vendraxis"
-
-#. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:658
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:681
 msgid ""
 "So, you believed me defeated? How mistaken you were! Rise once more, my "
 "minions!"
@@ -2632,12 +2677,12 @@ msgstr ""
 "¡Levántense una vez más, mis sirvientes!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:673
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:696
 msgid "This second wave seems weaker. We are making progress."
 msgstr "Esta segunda oleada parece más débil. Estamos avanzando."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:724
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:747
 msgid ""
 "What is happening here? Trolls, humans, elves, dwarfs, and saurians—all in "
 "one place? Wait, green and grey saurians? No matter. We are the Golden Ones, "
@@ -2649,17 +2694,17 @@ msgstr ""
 "¿Quién se unirá a nosotros?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:725
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:748
 msgid "Another saurian... And they promise to help? Ha! Men, to arms!"
 msgstr "Otro saurio... ¿Y prometen ayudar? ¡Ja! ¡Hombres, a las armas!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:726
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:749
 msgid "Fine, hand over your gold and move along."
 msgstr "Bien, entreguen su oro y sigan su camino."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:727
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:750
 msgid ""
 "We will gladly fight alongside you. We are here to stop the undead as well. "
 "Their leader is Vendraxis, a saurian necromancer. I am Zanza, from the Swamp "
@@ -2670,7 +2715,7 @@ msgstr ""
 "Pantano del Terror."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:728
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:751
 msgid ""
 "I am Salanix, from Saurhearth. We are Deep Saurians, living further in the "
 "mountains."
@@ -2679,7 +2724,7 @@ msgstr ""
 "en las montañas."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:729
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:752
 msgid ""
 "Zanza and Salanix, it is an honor. I am Arnatrax. We, the Golden Ones, are "
 "chosen by the One to cleanse these lands. Let us join forces. First, we must "
@@ -2690,7 +2735,7 @@ msgstr ""
 "debemos ocuparnos de las otras molestias."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:848
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:871
 msgid ""
 "Oh, more of my kin, though peculiar in appearance. Join my army as one of my "
 "generals, won't you?"
@@ -2699,59 +2744,59 @@ msgstr ""
 "uno de mis generales, ¿quieres?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:849
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:872
 msgid "Never! Crusaders, prepare yourselves!"
 msgstr "¡Nunca! ¡Cruzados, prepárense!"
 
 #. [message], speaker=narrator
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:852
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:875
 msgid "Do you wish to take command of the Golden Ones (desert saurians)?"
 msgstr "¿Deseas tomar el mando de los Dorados (saurios del desierto)?"
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:871
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:903
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:894
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:926
 msgid "Find Vendraxis' source of power"
 msgstr "Encuentra la fuente de poder de Vendraxis"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:899
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:922
 msgid "This is not the end. We shall meet again."
 msgstr "Este no es el final. Nos volveremos a encontrar."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:900
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:923
 msgid "What does he mean by that?"
 msgstr "¿Qué quiere decir con eso?"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:901
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:924
 msgid "Refumee warned us. It seems Vendraxis is not so easily defeated."
 msgstr ""
 "Refumee nos advirtió. Parece que Vendraxis no es tan fácil de derrotar."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:929
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:952
 msgid "We will meet again, fellow saurians."
 msgstr "Nos volveremos a encontrar, compañeros saurios."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:930
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:953
 msgid "We will find you!"
 msgstr "¡Te encontraremos!"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:936
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:959
 msgid "I can still sense his presence nearby. We must hurry."
 msgstr "Todavía puedo sentir su presencia cerca. Debemos apresurarnos."
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:976
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:999
 msgid "Enter Vendraxis' lair"
 msgstr "Entra en la guarida de Vendraxis"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:997
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1020
 msgid ""
 "I will withdraw for now. Will you see to the care of our soldiers, Zanza?"
 msgstr ""
@@ -2759,12 +2804,12 @@ msgstr ""
 "Zanza?"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:998
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1021
 msgid "Of course. Our finest healers will tend to them."
 msgstr "Por supuesto. Nuestros mejores sanadores se ocuparán de ellos."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1019
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1042
 msgid ""
 "This urn looks interesting. What if I break it? Maybe there's treasure "
 "inside."
@@ -2772,22 +2817,22 @@ msgstr ""
 "Esta urna se ve interesante. ¿Y si la rompo? Tal vez haya un tesoro adentro."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1020
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1043
 msgid "Do not touch it... Arrghhh!"
 msgstr "¡No la toques... Arrghhh!"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1025
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1048
 msgid "I didn’t have time to analyze this. Well, it’s done now."
 msgstr "No tuve tiempo de analizar esto. Bueno, ya está hecho."
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1033
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1056
 msgid "The urn seems suspicious. Better to leave it untouched for now."
 msgstr "La urna parece sospechosa. Mejor dejarla intacta por ahora."
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1048
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1071
 msgid ""
 "I will follow your lead. Our priests should be very useful against the "
 "undead."
@@ -2797,13 +2842,13 @@ msgstr ""
 
 #. [then]
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1049
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1079
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1072
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1102
 msgid "Excellent! Please, join us."
 msgstr "¡Excelente! Por favor, únanse a nosotros."
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1078
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1101
 msgid ""
 "I will follow your lead. Our priests should be very helpful against the "
 "undead."
@@ -2812,7 +2857,7 @@ msgstr ""
 "no muertos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1113
+#: Vendraxis_Prophecy/scenarios/07_Snowpass.cfg:1136
 msgid "Let us find the source of his power."
 msgstr "Encontrémos la fuente de su poder."
 
@@ -3295,7 +3340,7 @@ msgstr ""
 "¡Por nuestro jefe y por nuestro pueblo! ¡Lucharemos hasta el último aliento!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:496
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:495
 msgid ""
 "NOOOOOOOOOOO! You stupid children! You don't know what you are messing "
 "with!!! You will pay for this! I'll kill you over and over again for this "
@@ -3305,7 +3350,7 @@ msgstr ""
 "¡Pagarán por esto! ¡Los mataré una y otra vez por esta insolencia!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:497
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:496
 msgid ""
 "Based on this reaction I guess that this was his power source. We need to "
 "find and destroy all of them!"
@@ -3314,22 +3359,22 @@ msgstr ""
 "encontrar y destruir todas!"
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:518
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:517
 msgid "Destroy all urns: ($|number_urn/5) left"
 msgstr "Destruye todas las urnas: ($|number_urn/5) restantes"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:529
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:528
 msgid "Infidels! Begone! Immortality is not for you!"
 msgstr "¡Infieles! ¡Fuera! ¡La inmortalidad no es para ustedes!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:530
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:529
 msgid "Ha! Ha! Keep up the pressure!"
 msgstr "¡Ja! ¡Ja! ¡Mantengan la presión!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:536
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:535
 msgid ""
 "I will destroy your homes, your families, your people! I will find them all "
 "and make them suffer!"
@@ -3338,12 +3383,12 @@ msgstr ""
 "los haré sufrir!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:537
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:536
 msgid "He's weakening!"
 msgstr "¡Se está debilitando!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:538
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:537
 msgid ""
 "...and growing more unstable. He's focusing his powers on creating even "
 "stronger undead!"
@@ -3352,24 +3397,24 @@ msgstr ""
 "crear no muertos aún más fuertes!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:559
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:558
 msgid "Please... stop! I surrender. I will behave as a proper saurian."
 msgstr ""
 "Por favor... ¡deténganse! Me rindo. Me comportaré como un saurio decente."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:560
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:559
 msgid "Never! We will never trust a dark necromancer who desecrates the dead."
 msgstr ""
 "¡Nunca! Nunca confiaremos en un nigromante oscuro que profana a los muertos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:561
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:560
 msgid "So be it! I will fight until the very end."
 msgstr "¡Que así sea! Lucharé hasta el final."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:580
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:579
 msgid ""
 "You! You imbecile saurian! I shall delight in raising your dead, only to "
 "kill you again and again!"
@@ -3378,37 +3423,37 @@ msgstr ""
 "matarte una y otra vez!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:581
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:580
 msgid "Now! He's on his last legs. We can defeat him!"
 msgstr "¡Ahora! Está en sus últimas. ¡Podemos derrotarlo!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:582
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:581
 msgid "Forward!"
 msgstr "¡Adelante!"
 
 #. [objectives]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:600
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:599
 msgid "Defeat Vendraxis"
 msgstr "Derrota a Vendraxis"
 
 #. [then]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:624
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:623
 msgid "A hidden force is driving your unit away from the keep."
 msgstr "Una fuerza oculta está alejando a tu unidad del torreón."
 
 #. [else]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:666
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:665
 msgid "You can't kill me!"
 msgstr "¡No pueden matarme!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:694
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:693
 msgid "I got him!"
 msgstr "¡Lo tengo!"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:702
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:701
 msgid ""
 "So, this is how it ends...\n"
 "\t\t\n"
@@ -3420,7 +3465,7 @@ msgstr ""
 "héroes*"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:705
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:704
 msgid ""
 "But not for me, not really.\n"
 "\n"
@@ -3439,7 +3484,7 @@ msgstr ""
 "*mira hacia arriba, casi con nostalgia*"
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:710
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:709
 msgid ""
 "I sought immortality, yes... but not for myself. For my people.\n"
 "\n"
@@ -3454,7 +3499,7 @@ msgstr ""
 "que volví a mirar las estrellas. Y ellas me mostraron un camino diferente."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:713
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:712
 msgid ""
 "My death was always necessary. The prophecy I spread wasn’t just a call for "
 "heroes — it was a way to bring my people together. A story of salvation "
@@ -3467,7 +3512,7 @@ msgstr ""
 "vivirá."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:714
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:713
 msgid ""
 "Because in defeating me, you’ve shown them...\n"
 "You’ve shown them the power of unity, of what they can achieve when they "
@@ -3482,7 +3527,7 @@ msgstr ""
 "temida. Y cuando ese día llegue... mi pueblo será libre."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:716
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:715
 msgid ""
 "*his form starts to disintegrate, but his eyes remain bright, almost "
 "triumphant*\n"
@@ -3497,7 +3542,7 @@ msgstr ""
 "«monstruo»."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:722
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:721
 msgid ""
 "*he laughs softly*\n"
 "\t\t\n"
@@ -3510,7 +3555,7 @@ msgstr ""
 "futuro que he visto para mi pueblo. Y eso... es inmortalidad."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:725
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:724
 msgid ""
 "*as his body turns to dust, his final words echo in the air*\n"
 "\t\t\n"
@@ -3522,7 +3567,7 @@ msgstr ""
 "\t\tLos veré de nuevo... en las estrellas."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:743
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:742
 msgid ""
 "At last... it’s over. But what now? We can’t ignore the legacy he’s left "
 "behind."
@@ -3531,7 +3576,7 @@ msgstr ""
 "atrás."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:744
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:743
 msgid ""
 "We should stay here for a while. This place has everything we need: strong "
 "defenses, clean water, and even food from the mushrooms. It could serve as a "
@@ -3542,7 +3587,7 @@ msgstr ""
 "Podría servir como una nueva fortaleza."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:745
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:744
 msgid ""
 "We owe it to you, Zanza, to honor your help. We’ll do everything we can to "
 "cultivate this land and strengthen our bonds."
@@ -3551,7 +3596,7 @@ msgstr ""
 "esta tierra y fortalecer nuestros lazos."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:746
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:745
 msgid ""
 "Agreed. I’ve also found a perfect spot for a garden — a place where our "
 "people can gather and worship."
@@ -3560,7 +3605,7 @@ msgstr ""
 "donde nuestra gente pueda reunirse y rendir culto."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:747
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:746
 msgid ""
 "Thank you all for your support. We need to discuss what this new unity means "
 "for us and for him."
@@ -3569,7 +3614,7 @@ msgstr ""
 "unidad para nosotros y para él."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:748
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:747
 msgid ""
 "So, it seems our journey has just begun. Let’s make this place a true home, "
 "honoring the legacy he left behind."
@@ -3578,12 +3623,12 @@ msgstr ""
 "verdadero hogar, honrando el legado que dejó atrás."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:788
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:787
 msgid "I was not prepared for this."
 msgstr "No estaba preparado para esto."
 
 #. [event]
-#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:789
+#: Vendraxis_Prophecy/scenarios/08_Vendraxis_lair.cfg:788
 msgid "We can't win without him."
 msgstr "No podemos ganar sin él."
 
@@ -3693,8 +3738,8 @@ msgstr ""
 msgid ""
 "The Drake, known to the Saurians as ForestDragon, vanished without a trace."
 msgstr ""
-"El draco, conocido por los saurios como Dragón del Bosque, desapareció sin "
-"dejar rastro."
+"El draco, conocido por los saurios como ForestDragon desapareció sin dejar "
+"rastro."
 
 #. [part]
 #: Vendraxis_Prophecy/scenarios/09_VP_Epilogue.cfg:69
@@ -3735,6 +3780,7 @@ msgid "Choose this “unit” to get a list of available bandit saurians."
 msgstr ""
 "Elige esta «unidad» para obtener una lista de bandidos saurios disponibles."
 
+# Es una clara referencia al nombre de un usuario, ¿deberia ser traducido?
 #. [unit_type], id=Forest Dragon, race=drake
 #: Vendraxis_Prophecy/units/easteregg/ForestDragon.cfg:4
 msgid "Forest Dragon"
@@ -3754,7 +3800,7 @@ msgstr ""
 #. [attack], type=fire, range=ranged
 #: Vendraxis_Prophecy/units/easteregg/ForestDragon.cfg:52
 msgid "forestdragon fire"
-msgstr "fuego de Forest Dragon"
+msgstr "aliento de fuego"
 
 #. [female]
 #: Vendraxis_Prophecy/units/easteregg/ForestDragon.cfg:74
@@ -3846,6 +3892,30 @@ msgstr ""
 "sus iguales mágicos, y en cambio canalizan su poder en devastadores ataques "
 "cuerpo a cuerpo. A pesar de sus poderes ofensivos, la corrupción en sus "
 "almas ha comenzado a afectar adversamente la salud de los mismos."
+
+#~ msgid "Let's get rid of it."
+#~ msgstr "Deshagámonos de ella."
+
+#~ msgid ""
+#~ "Hint: You can only recruit level 0 units and choose their traits. Some "
+#~ "may possess the rare 'quick' trait. In later scenarios, only Anexir will "
+#~ "be able to recruit level 0 units."
+#~ msgstr ""
+#~ "Pista: Solo puedes reclutar unidades de nivel 0 y elegir sus rasgos. "
+#~ "Algunas pueden tener el raro rasgo «rápido». En escenarios posteriores, "
+#~ "solo Anexir podrá reclutar unidades de nivel 0."
+
+#~ msgid ""
+#~ "Months of preparation had passed, and at last Zanza guided her tribe "
+#~ "north. There, on the border of the swamp, they came upon strangers "
+#~ "awaiting them."
+#~ msgstr ""
+#~ "Habían pasado meses de preparación y, por fin, Zanza guió a su tribu "
+#~ "hacia el norte. Allí, en el límite del pantano, se encontraron con "
+#~ "extraños que los esperaban."
+
+#~ msgid "Player"
+#~ msgstr "Jugador"
 
 #~ msgid "You mean the emptiness of the tunnels, right?"
 #~ msgstr "Te refieres al vacío de los túneles, ¿verdad?"
